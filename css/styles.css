@@ -1,7 +1,17 @@
-ero-section {
- background: url(../Images/images\ \(3\).jpg);
+.hero-section {
+ background: url(../Images/anhcl.jpg);
  background-size: cover;
  background-position: center;
  background-repeat: no-repeat;
  height: 80vh;
+}
+.textcl{
+    color: blueviolet;
+}
+.imga{
+    width: 50%;
+}
+.gch{
+    text-decoration: none;
+    color: aliceblue;
 }
