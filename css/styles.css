@@ -15,3 +15,21 @@
     text-decoration: none;
     color: aliceblue;
 }
+.review-card {
+    border: 1px solid rgba(0, 0, 0, 0.04);
+}
+.review-avatar {
+    width: 96px;
+    height: 96px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.review-stars {
+    color: #ffc107;
+    font-size: 1.25rem;
+    letter-spacing: 0.1rem;
+}
+.review-quote {
+    font-size: 0.95rem;
+    font-style: italic;
+}
