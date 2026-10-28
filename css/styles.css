@@ -26,10 +26,10 @@
 }
 .review-stars {
     color: #ffc107;
-    font-size: 1.25rem;
-    letter-spacing: 0.1rem;
+    font-size: 20px;
+    letter-spacing: 1.6px;
 }
 .review-quote {
-    font-size: 0.95rem;
+    font-size: 15px;
     font-style: italic;
 }
